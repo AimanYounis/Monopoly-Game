@@ -1,0 +1,40 @@
+Question wasn't answered correctly.
+Question was answered correctly.
+Question was answered correctly.
+Player : bbbb has bought the Asset Amman WHITE, part: 1
+****************************************************************************
+Question was answered correctly.
+Question was answered correctly.
+Question was answered correctly.
+Question was answered correctly.
+Question wasn't answered correctly.
+Player : bbbb has bought the Asset Frankfurt RED, part: 2
+****************************************************************************
+Question wasn't answered correctly.
+Question was answered correctly.
+Player : aaaa has bought the Asset Paris GREEN, part: 1
+****************************************************************************
+Question wasn't answered correctly.
+Player : bbbb has bought the Asset Haifa BROWN, part: 1
+****************************************************************************
+Question wasn't answered correctly.
+Player bbbb got arrested
+****************************************************************************
+Question wasn't answered correctly.
+Player aaaa got arrested
+****************************************************************************
+Player bbbb got out of jail
+Player aaaa got out of jail
+Player bbbb got arrested
+****************************************************************************
+Question was answered correctly.
+Question wasn't answered correctly.
+Question wasn't answered correctly.
+Player bbbb got out of jail
+Player aaaa got arrested
+****************************************************************************
+Question was answered correctly.
+Question wasn't answered correctly.
+Question wasn't answered correctly.
+Player aaaa got out of jail
+Question wasn't answered correctly.
